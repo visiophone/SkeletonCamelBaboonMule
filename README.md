@@ -18,9 +18,10 @@ https://github.com/LingDong-/skeleton-tracing
 \
 \
 ![Image description](https://github.com/visiophone/SkeletonCamelBaboonMule/blob/master/camel.png)
-\
+"Plate_739 Bactrain Camel Galloping" (Muybridge 1987)\
 \
 ![Image description](https://github.com/visiophone/SkeletonCamelBaboonMule/blob/master/baboon.png)
-\
+"Plate 748 Baboon Walking On All Fours" (Muybridge 1987)\
 \
 ![Image description](https://github.com/visiophone/SkeletonCamelBaboonMule/blob/master/mule.png)
+"Plate 659 Mule Ruth Bucking and Kicking" (Muybridge 1987)
