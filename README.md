@@ -13,8 +13,7 @@ Made with Processing using TraceSkeleton by Lingdong Huang
 "A new algorithm for retrieving topological skeleton as a set of polylines from binary images."
 https://github.com/LingDong-/skeleton-tracing
 \
-\
-Also uses Mesh Library by Lee Byron (for the Voronoi, Delaunay and Convex Hull)
+Also uses Mesh Library by Lee Byron (Voronoi, Delaunay and Convex Hull)
 http://leebyron.com/mesh/
 \
 \
