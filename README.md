@@ -9,9 +9,13 @@ Capturing in realtime the skeleton of three diferent animals and exploring abstr
 2.Baboon: "Plate 748 Baboon Walking On All Fours"\
 3.Mule: "Plate 659 Mule Ruth Bucking and Kicking"\
 \
-Made with Processing using TraceSkeleton by Lingdong Huang (2020)
+Made with Processing using TraceSkeleton by Lingdong Huang 
 "A new algorithm for retrieving topological skeleton as a set of polylines from binary images."
 https://github.com/LingDong-/skeleton-tracing
+\
+\
+Also uses Mesh Library by Lee Byron (for the Voronoi, Delaunay and Convex Hull)
+http://leebyron.com/mesh/
 \
 \
 ![Image description](https://github.com/visiophone/SkeletonCamelBaboonMule/blob/master/SkeletonCamelBaboonMule.jpg)
