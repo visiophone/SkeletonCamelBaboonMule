@@ -13,4 +13,14 @@ Made with Processing using TraceSkeleton by Lingdong Huang (2020)
 "A new algorithm for retrieving topological skeleton as a set of polylines from binary images."
 https://github.com/LingDong-/skeleton-tracing
 \
-![Image description](https://github.com/visiophone/SkeletonCat/blob/master/Skeleton_cat.jpg)
+\
+![Image description](https://github.com/visiophone/SkeletonCamelBaboonMule/blob/master/SkeletonCamelBaboonMule.jpg)
+\
+\
+![Image description](https://github.com/visiophone/SkeletonCamelBaboonMule/blob/master/camel.png)
+\
+\
+![Image description](https://github.com/visiophone/SkeletonCamelBaboonMule/blob/master/baboon.png)
+\
+\
+![Image description](https://github.com/visiophone/SkeletonCamelBaboonMule/blob/master/mule.png)
